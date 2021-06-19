@@ -1,0 +1,11 @@
+{
+    "Client1": {
+        "adbAddress": "emulator-5554"
+    },
+    "Client2": {
+        "adbAddress": "emulator-5555"
+    },
+    "screenWidth": 1138,
+    "screenHeight": 640,
+    "linkCheat": "https://admin.zingplay.com/en/tools/deploy_docker/details/luckynine/socket_server/qc2/0"
+}

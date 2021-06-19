@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Lib" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/sikulixapi-2.0.4-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/Lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-integration-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-ooxml-lite-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-ooxml-full-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/json-20200518.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-scratchpad-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-examples-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-ooxml-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/sikulixapi-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/xmlbeans-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise-main/Lib/poi-excelant-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
